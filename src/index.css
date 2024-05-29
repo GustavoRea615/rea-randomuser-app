@@ -1,0 +1,4 @@
+/* Se creo el CSS solo para permitir el uso de tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
